@@ -49,15 +49,6 @@ I am a **Full-Stack Developer** and **Information Technology Student** at the Un
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faustin12-g&show_icons=true&theme=radical&count_private=true&hide_border=false" alt="Faustin's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustin12-g&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-</p>
----
-
 ### 🏆 Honors & Recognition
 * 🥈 **2nd Place Winner** | Hello Tractor E-commerce Hackathon  
 * 📜 **Intensive SE Training** | THE GYM Rwanda (In Progress)  
