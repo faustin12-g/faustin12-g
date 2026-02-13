@@ -6,12 +6,12 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 I am a **Full-Stack Software Developer** and **Information Technology Student** at the University of Rwanda. My passion lies in building scalable, real-time systems and user-centric digital solutions. From engineering hospital queue management systems to architecting SaaS platforms, I thrive at the intersection of robust backend logic and intuitive frontend design.
 
-- 🎓 **Education:** B.S. in Information Technology, University of Rwanda (Exp. 2027)
-- 🛠️ **Currently:** Building **Rosha AI** & sharpening skills at **THE GYM Rwanda**
-- 🌍 **Mission:** Leveraging technology to solve civic and commercial challenges in Rwanda and beyond.
+* 🎓 **Education:** B.S. in Information Technology, University of Rwanda (Exp. 2027)
+* 🛠️ **Currently:** Building **Rosha AI** & sharpening skills at **THE GYM Rwanda**
+* 🌍 **Mission:** Leveraging technology to solve civic and commercial challenges in Rwanda and beyond.
 
 ---
 
@@ -22,9 +22,6 @@ I am a **Full-Stack Software Developer** and **Information Technology Student** 
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -47,16 +44,17 @@ I am a **Full-Stack Software Developer** and **Information Technology Student** 
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faustin12-g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustin12-g&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faustin12-g&show_icons=true&theme=tokyonight&hide_border=true" alt="Faustin's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustin12-g&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 Honors & Recognition
-- 🥈 **2nd Place Winner** | Hello Tractor E-commerce Hackathon
-- 📜 **Intensive SE Training** | THE GYM Rwanda (In Progress)
-- 🤝 **Ingazi Ambassador** | Ministry of Youth and Art
+* 🥈 **2nd Place Winner** | Hello Tractor E-commerce Hackathon
+* 📜 **Intensive SE Training** | THE GYM Rwanda (In Progress)
+* 🤝 **Ingazi Ambassador** | Ministry of Youth and Art
 
 ### 📫 Connect with Me
 <p align="left">
@@ -66,5 +64,5 @@ I am a **Full-Stack Software Developer** and **Information Technology Student** 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=100&section=footer" />
 </p>
