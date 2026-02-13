@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Faustin Nshimiyimana
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Software+Engineering+Student;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;JavaScript+Specialist;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
 ### About Me
-I am a **Full-Stack Developer** and **Information Technology Student** at the University of Rwanda. My passion is building scalable, real-time systems and user-centric digital solutions. From designing hospital queue management systems to architecting SaaS platforms, I thrive at the intersection of **robust backend logic** and **intuitive frontend design**.
+I am a **Full-Stack Developer** and **Information Technology Student** at the University of Rwanda. My core expertise lies in **JavaScript/TypeScript development**, building web, mobile, and desktop applications. I also work with Python/Django, C#/.NET, and Dart/Flutter. I thrive at the intersection of **clean architecture**, **real-time systems**, and **user-friendly interfaces**.
 
 * 🎓 **Education:** B.S. in Information Technology, University of Rwanda (Expected 2027)  
 * 🛠️ **Currently:** Building **Rosha AI** & sharpening skills at **THE GYM Rwanda**  
@@ -15,16 +15,23 @@ I am a **Full-Stack Developer** and **Information Technology Student** at the Un
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Specializations
 
+**JavaScript & TypeScript:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+</p>
+
+**Other Tech Stacks:**  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
@@ -35,8 +42,8 @@ I am a **Full-Stack Developer** and **Information Technology Student** at the Un
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Portfy** | `Django`, `React` | A SaaS portfolio builder that generates dynamic websites through simple forms. |
-| **UDS (Ubuzima)** | `Node.js`, `WebSockets` | Real-time hospital queue management reducing patient wait times and confusion. |
+| **Portfy** | `Django`, `React` | A SaaS portfolio builder generating dynamic websites through simple forms. |
+| **UDS (Ubuzima)** | `Node.js`, `WebSockets` | Real-time hospital queue management reducing patient wait times. |
 | **Safeboda Clone** | `.NET Core`, `Blazor` | Two-sided ride-sharing platform with advanced driver-passenger matching logic. |
 | **Umuturage Kwisonga** | `Civic-Tech` | Award-winning citizen-reporting platform with automated government routing. |
 
@@ -45,11 +52,10 @@ I am a **Full-Stack Developer** and **Information Technology Student** at the Un
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faustin12-g&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faustin12-g&show_icons=true&theme=radical&count_private=true&hide_border=false" alt="Faustin's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustin12-g&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustin12-g&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🏆 Honors & Recognition
