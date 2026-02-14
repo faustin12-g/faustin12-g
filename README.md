@@ -9,8 +9,8 @@
 ### About Me
 I am a **Full-Stack Developer** and **Information Technology Student** at the University of Rwanda. My core expertise lies in **JavaScript/TypeScript development**, building web, mobile, and desktop applications. I also work with Python/Django, C#/.NET, and Dart/Flutter. I thrive at the intersection of **clean architecture**, **real-time systems**, and **user-friendly interfaces**.
 
-* 🎓 **Education:** B.S. in Information Technology, University of Rwanda (Expected 2027)  
-* 🛠️ **Currently:** Building **Rosha AI** & sharpening skills at **THE GYM Rwanda**  
+* 🎓 **Education:** B.S. in Information Technology 
+* 🛠️ **Currently:** Founding **Rosha AI** & sharpening skills at **THE GYM Rwanda**  
 * 🌍 **Mission:** Leveraging technology to solve civic and commercial challenges in Rwanda and beyond  
 
 ---
@@ -35,17 +35,6 @@ I am a **Full-Stack Developer** and **Information Technology Student** at the Un
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-### 🌟 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **Portfy** | `Django`, `React` | A SaaS portfolio builder generating dynamic websites through simple forms. |
-| **UDS (Ubuzima)** | `Node.js`, `WebSockets` | Real-time hospital queue management reducing patient wait times. |
-| **Safeboda Clone** | `.NET Core`, `Blazor` | Two-sided ride-sharing platform with advanced driver-passenger matching logic. |
-| **Umuturage Kwisonga** | `Civic-Tech` | Award-winning citizen-reporting platform with automated government routing. |
 
 ---
 
