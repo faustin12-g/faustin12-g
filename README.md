@@ -18,71 +18,58 @@ My work focuses on **performance, clean architecture, automation, and real-world
 
 ---
 
-## 🧠 Core Expertise (Advanced)
+## 🧩 Technical Skills
 
-### ⚡ JavaScript & TypeScript Ecosystem
-- Node.js (Backend & APIs)
-- React.js (Web Applications)
-- React Native (Mobile Apps)
-- Electron.js (Desktop Apps)
-
-### 🗄️ Databases & Cloud
-- MySQL (Advanced Database Design & Optimization)
-- Microsoft Azure (Deployment & Hosting)
-
-### 🔧 DevOps & Tooling
-- Git & Git Flow
-- GitHub Actions (CI/CD Pipelines)
-- Docker (Containerization)
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-blue?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/SQL-Advanced-lightgrey?style=for-the-badge)
 
 ---
 
-## 📈 Intermediate Skills
-
-### 💻 Programming & Frameworks
-- Python (Django)
-- C# (.NET)
-- Go
-- Dart (Flutter)
-
-### ☁️ Cloud & Databases
-- AWS
-- PostgreSQL
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-Advanced-black?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-Intermediate-darkgreen?style=for-the-badge&logo=django)
+![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-pink?style=for-the-badge&logo=graphql)
 
 ---
 
-## 🛠️ Technical Stack
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
-
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-</p>
-
-### DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-Advanced-61DAFB?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-Advanced-764ABC?style=for-the-badge&logo=redux)
+![Tailwind](https://img.shields.io/badge/Tailwind-Advanced-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Next.js](https://img.shields.io/badge/Next.js-Advanced-black?style=for-the-badge&logo=next.js)
 
 ---
 
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb)
+
+---
+
+### 💳 Payments
+![Stripe](https://img.shields.io/badge/Stripe-Intermediate-635BFF?style=for-the-badge&logo=stripe)
+![PayPal](https://img.shields.io/badge/PayPal-Intermediate-00457C?style=for-the-badge&logo=paypal)
+
+---
+
+### 🚀 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git)
+![CI/CD](https://img.shields.io/badge/CI/CD-Intermediate-black?style=for-the-badge&logo=githubactions)
+
+---
+
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI_API-Intermediate-purple?style=for-the-badge&logo=openai)
+---
 ## 🏆 Achievements & Experience
 
 - 🥈 2nd Place — Hello Tractor E-commerce Hackathon  
