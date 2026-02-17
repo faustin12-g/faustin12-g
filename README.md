@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Faustin Nshimiyimana
+# Hi, I'm Faustin Nshimiyimana
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;JavaScript+Specialist;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -6,21 +6,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a **Full-Stack Software Developer** and **IT Student at the University of Rwanda**, specializing in building **scalable web, mobile, and desktop applications** using modern technologies.
 
 My work focuses on **performance, clean architecture, automation, and real-world problem solving**.
 
-- 🎓 **Education:** B.Sc. in Information Technology  
-- 💼 **Current Focus:** Building Rosha AI & advancing software engineering skills  
-- 🌍 **Mission:** Using technology to solve civic and business challenges in Africa  
+- **Education:** B.Sc. in Information Technology  
+- **Mission:** Using technology to solve civic and business challenges in Africa  
 
 ---
 
-## 🧩 Technical Skills
+## Technical Skills
 
-### 💻 Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
@@ -30,7 +29,7 @@ My work focuses on **performance, clean architecture, automation, and real-world
 
 ---
 
-### ⚙️ Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-Advanced-black?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-Intermediate-darkgreen?style=for-the-badge&logo=django)
@@ -38,7 +37,7 @@ My work focuses on **performance, clean architecture, automation, and real-world
 
 ---
 
-### 🎨 Frontend & Mobile
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-Advanced-61DAFB?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-Advanced-764ABC?style=for-the-badge&logo=redux)
@@ -47,38 +46,37 @@ My work focuses on **performance, clean architecture, automation, and real-world
 
 ---
 
-### 🗄️ Databases
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb)
 
 ---
 
-### 💳 Payments
+### Payments
 ![Stripe](https://img.shields.io/badge/Stripe-Intermediate-635BFF?style=for-the-badge&logo=stripe)
 ![PayPal](https://img.shields.io/badge/PayPal-Intermediate-00457C?style=for-the-badge&logo=paypal)
 
 ---
 
-### 🚀 DevOps & Infrastructure
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git)
 ![CI/CD](https://img.shields.io/badge/CI/CD-Intermediate-black?style=for-the-badge&logo=githubactions)
 
 ---
 
-### 🤖 AI & Automation
+### AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-Intermediate-purple?style=for-the-badge&logo=openai)
 ---
-## 🏆 Achievements & Experience
+## Achievements & Experience
 
-- 🥈 2nd Place — Hello Tractor E-commerce Hackathon  
-- 📚 Software Engineering Training — THE GYM Rwanda  
-- 🌱 Ingazi Ambassador — Ministry of Youth & Arts  
+- 2nd Place — Hello Tractor E-commerce Hackathon  
+- Software Engineering Training — THE GYM Rwanda  
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p>
   <a href="mailto:nshimiefaustinpeace@gmail.com">
