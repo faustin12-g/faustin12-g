@@ -1,58 +1,112 @@
-# 👋 Hello, I'm Faustin Nshimiyimana
+# 👋 Hi, I'm Faustin Nshimiyimana
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;JavaScript+Specialist;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;JavaScript+Specialist;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-### About Me
-I am a **Full-Stack Developer** and **Information Technology Student** at the University of Rwanda. My core expertise lies in **JavaScript/TypeScript development**, building web, mobile, and desktop applications. I also work with Python/Django, C#/.NET, and Dart/Flutter. I thrive at the intersection of **clean architecture**, **real-time systems**, and **user-friendly interfaces**.
+## 🚀 About Me
 
-* 🎓 **Education:** B.S. in Information Technology 
-* 🛠️ **Currently:** Founding **Rosha AI** & sharpening skills at **THE GYM Rwanda**  
-* 🌍 **Mission:** Leveraging technology to solve civic and commercial challenges in Rwanda and beyond  
+I am a **Full-Stack Software Developer** and **IT Student at the University of Rwanda**, specializing in building **scalable web, mobile, and desktop applications** using modern technologies.
 
----
+My work focuses on **performance, clean architecture, automation, and real-world problem solving**.
 
-### 🛠️ Specializations
-
-**JavaScript & TypeScript:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-</p>
-
-**Other Tech Stacks:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+- 🎓 **Education:** B.Sc. in Information Technology  
+- 💼 **Current Focus:** Building Rosha AI & advancing software engineering skills  
+- 🌍 **Mission:** Using technology to solve civic and business challenges in Africa  
 
 ---
 
-### 🏆 Honors & Recognition
-* 🥈 **2nd Place Winner** | Hello Tractor E-commerce Hackathon  
-* 📜 **Intensive SE Training** | THE GYM Rwanda (In Progress)  
-* 🤝 **Ingazi Ambassador** | Ministry of Youth and Arts  
+## 🧠 Core Expertise (Advanced)
+
+### ⚡ JavaScript & TypeScript Ecosystem
+- Node.js (Backend & APIs)
+- React.js (Web Applications)
+- React Native (Mobile Apps)
+- Electron.js (Desktop Apps)
+
+### 🗄️ Databases & Cloud
+- MySQL (Advanced Database Design & Optimization)
+- Microsoft Azure (Deployment & Hosting)
+
+### 🔧 DevOps & Tooling
+- Git & Git Flow
+- GitHub Actions (CI/CD Pipelines)
+- Docker (Containerization)
 
 ---
 
-### 📫 Connect with Me
+## 📈 Intermediate Skills
 
-<p align="left">
-  <a href="mailto:nshimiefaustinpeace@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/faustin-nshimiyimana-928a6237b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://nshimiyimana.me/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+### 💻 Programming & Frameworks
+- Python (Django)
+- C# (.NET)
+- Go
+- Dart (Flutter)
+
+### ☁️ Cloud & Databases
+- AWS
+- PostgreSQL
+
+---
+
+## 🛠️ Technical Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Achievements & Experience
+
+- 🥈 2nd Place — Hello Tractor E-commerce Hackathon  
+- 📚 Software Engineering Training — THE GYM Rwanda  
+- 🌱 Ingazi Ambassador — Ministry of Youth & Arts  
+
+---
+
+## 📫 Let's Connect
+
+<p>
+  <a href="mailto:nshimiefaustinpeace@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/faustin-nshimiyimana-928a6237b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://nshimiyimana.me/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=100&section=footer"/>
 </p>
