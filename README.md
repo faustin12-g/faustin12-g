@@ -55,7 +55,6 @@ Two-year intensive bootcamp covering advanced software engineering practices, sy
 ## GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=faustin12-g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faustin12-g&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
