@@ -45,8 +45,8 @@ My work bridges advanced software engineering with impactful automation—focusi
 ## GitHub Contribution & Ecosystem Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faustin12-g&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Faustin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustin12-g&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=faustin12-g&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Faustin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=faustin12-g&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
