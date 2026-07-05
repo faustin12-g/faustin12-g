@@ -14,13 +14,31 @@
 
 ## About Me
 
-I am a **Full-Stack Software Developer** and an **Information Technology Student at the University of Rwanda** (Expected Graduation: 2027). I specialize in building highly scalable web, mobile, and decentralized software architectures. 
+I am a **Full-Stack Software Developer** and an **Information Technology Student at the University of Rwanda**. I specialize in building highly scalable web, mobile, and software architectures. 
 
 My work bridges advanced software engineering with impactful automation—focusing on data-driven solutions, localized AI systems, and robust offline-first application designs tailored to address real-world community and corporate infrastructure challenges.
 
 - **Education:** Bachelor of Information Technology at the University of Rwanda
-- **Professional Experience:** Software Developer Intern at Zaantu Ltd and Freelance Software Developer at Ingoga Technologies
 - **Core Philosophy:** Transforming technical constraints into resilient, clean-coded solutions
+
+---
+
+## Professional Experience
+
+### Freelance Software Engineer
+**Ingoga Technologies**
+- Designed and deployed full-stack features for client applications.
+- Engineered the Ubuzima Digital System, an asynchronous hospital queue management solution incorporating event-driven WebSockets for real-time tracking.
+
+### Software Developer
+**THE GYM Rwanda**
+- Participated in rigorous software engineering and technical acceleration training.
+- Collaborated on complex team codebases, optimizing application design patterns and performance.
+
+### Software Intern
+**Zaantu Uganda Ltd**
+- Contributed to internal software development workflows, refining features across the technical ecosystem.
+- Collaborated under professional engineering mentorship to deliver scalable software components.
 
 ---
 
@@ -72,30 +90,6 @@ My work bridges advanced software engineering with impactful automation—focusi
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/AI_Modeling-ROSHA-412991?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-## Highlighted Contributions & Architecture Projects
-
-### BirthChain | Universal Health Data Continuity
-- **Architecture:** Developed an offline-first architecture powered by a decentralized ledger system.
-- **Impact:** Created high-resilience medical data logging platforms engineered for low-connectivity environments to ensure cross-institutional patient history tracking.
-
-### Ubuzima Digital System | Real-Time Queue Management
-- **Architecture:** Built an asynchronous hospital traffic control platform deploying event-driven WebSockets for high-frequency dashboard updates.
-- **Impact:** Reduced administrative bottlenecking and patient wait-times within clinical intake environments.
-
----
-
-## Fellowships & Hackathon Track Record
-
-- **2nd Place Winner** | Hello Tractor E-commerce Hackathon
-- **Software Engineering Trainee** | THE GYM Rwanda Traineeship Program
-- **Ecosystem Innovator** | Active participant across regional innovation groups including the Africa Gen AI Hackathon (FabLab Rwanda), CodeXtreme Ingenious Hackathon (ALU Campus), and the Build for Impact CBC Hackathon (UR-CST).
-- **Fellowships & Ambassadors:** 
-  - Jim Leech Mastercard Foundation Fellowship (Dunin-Deshpande Queen's Innovation Centre)
-  - Cohort 5 Member for the SDGs Campus Ambassador Programme (AIIDEV Africa)
-  - Appointed Ingazi Ambassador for the Nyarugenge District by the Ministry of Youth and Art
 
 ---
 
