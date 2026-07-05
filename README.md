@@ -60,7 +60,7 @@ Two-year intensive bootcamp covering advanced software engineering practices, sy
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faustin12-g&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faustin12-g&theme=tokyo-night&hide_border=true" width="97%" />
 </div>
 
 <br/>
